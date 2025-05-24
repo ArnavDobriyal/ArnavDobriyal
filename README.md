@@ -1,7 +1,7 @@
 # Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnav Dobriyal
-======================================================================================================================================
+========================================================================================
 
-Building Minds with Code | AI Sorcerer
+Building Minds with Code | Next-Gen AI Architect
 ---------------
 
 A passionate and hands-on AI/ML Developer with a completed **B.Tech in Artificial Intelligence and Machine Learning**. I specialize in full-stack ML solutions, real-time AI systems, and intelligent agents. I’ve built systems ranging from fraud detectors and forecasting models to autonomous DevOps agents and LLM-powered chatbots.
@@ -30,32 +30,61 @@ I thrive at the intersection of engineering and machine learning—shipping idea
 
 ### 🛠️ Skills
 
-### 🛠️ Skills
-
 <p align="left">
 <!-- Programming -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">🧪 scikit-learn</a>
-<a href="https://opencv.org/" target="_blank" rel="noreferrer">📷 OpenCV</a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">🧠 LangChain</a>
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">🐼 pandas</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">🔢 NumPy</a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">📊 Matplotlib</a>
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">🎨 Seaborn</a>
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikit-learn-colored.svg" width="36" height="36" alt="scikit-learn" />
+</a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/opencv-colored.svg" width="36" height="36" alt="OpenCV" />
+</a>
+<a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/langchain-colored.svg" width="36" height="36" alt="LangChain" />
+</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="pandas" />
+</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" />
+</a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/matplotlib-colored.svg" width="36" height="36" alt="Matplotlib" />
+</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/seaborn-colored.svg" width="36" height="36" alt="Seaborn" />
+</a>
 
 <!-- Dev Tools -->
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">🐳 Docker</a>
-<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">🚀 FastAPI</a>
-<a href="https://streamlit.io/" target="_blank" rel="noreferrer">📈 Streamlit</a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">🔧 Git</a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">🐙 GitHub</a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">📬 Postman</a>
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
+</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" width="36" height="36" alt="FastAPI" />
+</a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/streamlit-colored.svg" width="36" height="36" alt="Streamlit" />
+</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="36" height="36" alt="GitHub" />
+</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postman-colored.svg" width="36" height="36" alt="Postman" />
+</a>
 
 <!-- Databases -->
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">🐬 MySQL</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">🍃 MongoDB</a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
+</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+</a>
+
 
 <!-- Cloud -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
