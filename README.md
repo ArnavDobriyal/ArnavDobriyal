@@ -1,84 +1,82 @@
-<h1 align="center">Hi, I'm Arnav Dobriyal 👋</h1>
-<h3 align="center">AI/ML Developer | MLOps Enthusiast | Full-Stack Innovator</h3>
+# 👋 Arnav Dobriyal
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="500"/>
-</p>
+**AI/ML Developer** • **MLOps Enthusiast** • **Full-Stack Builder**
 
----
-
-### 🚀 About Me
-
-I'm an **AI/ML Developer** passionate about transforming ideas into impactful AI solutions. Recently graduated with a **B.Tech in Artificial Intelligence & Machine Learning**, I specialize in building intelligent systems that span across **ML, NLP, MLOps**, and **real-time applications**.
-
-- 💼 Built end-to-end products using AI, ML, DL, NLP, and GenAI  
-- 🌐 Delivered real-time, cloud-deployable systems with Docker, AWS, and FastAPI  
-- 🤖 Creator of an autonomous DevOps AI agent with GitHub/Docker/AWS integration  
-- 📊 Built predictive analytics tools with business impact across AgriTech, Healthcare, and Finance  
+I'm a recent B.Tech graduate in Artificial Intelligence and Machine Learning with hands-on experience building production-grade ML systems, deploying intelligent agents, and crafting full-stack applications. From model development and MLOps automation to GenAI and real-time AI applications — I build smart, scalable, and impactful solutions.
 
 ---
 
-### 🔧 Core Expertise
+## 🔹 About Me
 
-- **AI/ML & Deep Learning**: XGBoost, LightGBM, YOLOv5, GPT-2, Transformers  
-- **Natural Language Processing**: LangChain, Qdrant, RAG, Text Classification  
-- **Real-Time AI Systems**: Edge Computing, IoT, Speed Detection, Voice AI  
-- **DevOps & MLOps**: Docker, FastAPI, AWS CLI, GitHub Actions  
-- **Full-Stack Development**: FastAPI, MySQL, JavaScript, HTML/CSS  
-- **Cloud & Tools**: AWS, Google Cloud, Git, Docker, Visual Studio Code, Kaggle  
-
----
-
-### 🧠 Featured Projects
-
-| Project Name | Description |
-|--------------|-------------|
-| 🚀 **VoiceGenie AI** | Voice-controlled RAG assistant using LangChain, Qdrant & GCP Speech-to-Text |
-| 🧠 **DevOpsCopilot AI Agent** | GitHub-aware agent that reads `context.json`, generates Docker/Compose files, deploys to AWS, and validates health checks |
-| 🌾 **AgroPrice Predictor** | Fertilizer price forecasting using SKforecast, XGBoost, tsfresh – optimized for MAE, MAPE |
-| 📊 **CryptoStack Trader** | BTC/USDT trading bot using ensemble models, achieving over $20K net profit and 7.05 Sharpe Ratio |
-| 🏥 **HealthClaim Insight** | ML dashboard for healthcare claim approvals (97% accuracy), built with Plotly, FastAPI |
-| 📦 **InventoryMaster Pro** | Full-stack inventory management app with automated stock tracking, expiry alerts, user auth |
-| 🛠️ **TheraBot GPT** | Finetuned GPT-2 based therapy chatbot, trained on synthetic sessions, containerized with Docker |
-| 🌬️ **CorroDetect Vision** | YOLOv8-based corrosion detection from drone imagery, with class-specific evaluation |
-| 🌐 **Browser Retrieval Agent** | Web-browsing AI agent that fetches and summarizes online content in real-time |
+- 🌍 Based in **India**  
+- 💡 Specialize in **AI/ML, NLP, MLOps, Full-Stack Systems**  
+- 🚀 Created multiple AI products deployed via **Docker**, **FastAPI**, **AWS**  
+- 🤖 Passionate about building autonomous agents, LLM tools, and real-time detection systems  
+- 🧩 Actively solving problems — 100+ questions on LeetCode  
 
 ---
 
-### 🧰 Tech Stack
+## 🔹 Skills
 
 **Languages:**  
-`Python` • `C/C++` • `JavaScript` • `SQL` • `HTML/CSS`
+🐍 Python • 💻 C/C++ • 🌐 JavaScript • 🗃️ SQL • 🎨 HTML/CSS  
 
-**Frameworks & Tools:**  
-`TensorFlow` • `PyTorch` • `LangChain` • `FastAPI` • `Docker` • `Git` • `GCP` • `AWS`
+**Frameworks & Libraries:**  
+⚡ FastAPI • Flask • TensorFlow • LangChain • Transformers • scikit-learn • NLTK • tsfresh • SKforecast • YOLOv5  
 
-**Libraries & APIs:**  
-`Transformers` • `OpenCV` • `Scikit-learn` • `NLTK` • `Plotly` • `tsfresh` • `SKforecast` • `Google Speech-to-Text`  
+**Tools & Cloud:**  
+🐙 Git • 🐳 Docker • ☁️ AWS • ☁️ Google Cloud • 🛠 Visual Studio Code  
 
----
-
-### 📜 Certifications
-
-- ✅ TensorFlow Developer Certificate  
-- ✅ AWS Certified Cloud Practitioner  
-- ✅ Google Cloud Digital Leader  
-- ✅ NLP with Classification & Vector Spaces – Deeplearning.ai  
+**Concepts:**  
+📊 Machine Learning • 🤖 Deep Learning • 📝 NLP • 🔄 MLOps • 🕸 Edge AI • ✨ GenAI  
 
 ---
 
-### 📫 Let's Connect
+## 🔹 Featured Projects
 
-<p align="left">
-  <a href="https://www.github.com/ArnavDobriyal" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/arnav-dobriyal-64281123a" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
-</p>
+**🎙 VoiceGenie AI**  
+A real-time voice-controlled AI assistant with RAG using LangChain + Qdrant, backed by Google Speech-to-Text and local PDF retrieval.
+
+**🤖 DevOpsCopilot Agent**  
+An autonomous agent that reads `context.json`, generates Docker/Docker Compose files, deploys to AWS, and validates service health.
+
+**🌾 AgroPrice Predictor**  
+Forecasts DAP fertilizer prices using XGBoost and LightGBM with tsfresh features and SKforecast time series models.
+
+**💰 CryptoStack Trader**  
+A BTC/USDT algorithmic trading bot with ensemble learning, achieving high Sharpe Ratio and profitability.
+
+**🏥 HealthClaim Insight**  
+An ML-driven dashboard for healthcare claims processing with 97% accuracy, built with Plotly and FastAPI.
+
+**📦 InventoryMaster Pro**  
+Full-stack inventory manager with user authorization, auto-replenishment, expiry tracking, built using FastAPI, MySQL, and JS.
+
+**🛋 TheraBot GPT**  
+Finetuned GPT-2-based AI therapist chatbot, trained on synthetic sessions, deployed via Docker.
+
+**🛠 CorroDetect Vision**  
+YOLOv8-based corrosion and crack detection system for wind turbines using drone imagery.
+
+**🌐 Browser Retrieval Agent**  
+An AI agent capable of browsing and retrieving web content in real-time, summarizing results when local context is insufficient.
 
 ---
 
-### ⚡ Fun Fact
+## 🔹 Certifications
 
-> I’ve built an AI agent that reads your repo, Dockerizes your app, deploys it to AWS, and checks if it’s live – no manual work needed. Basically, your very own DevOps team in a single Python script. 😎
+✅ TensorFlow Developer Certificate  
+✅ AWS Certified Cloud Practitioner  
+✅ Google Cloud Digital Leader  
+✅ NLP with Classification & Vector Spaces – Deeplearning.ai  
 
 ---
 
+## 🔹 Let's Connect
+
+🔗 GitHub: [@ArnavDobriyal](https://github.com/ArnavDobriyal)  
+🔗 LinkedIn: [Arnav Dobriyal](https://www.linkedin.com/in/arnav-dobriyal-64281123a)
+
+---
+
+*If you're looking for someone who can build, deploy, and automate AI systems end-to-end — let's talk.*  
