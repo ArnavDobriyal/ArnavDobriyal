@@ -1,69 +1,68 @@
-# 👋 Arnav Dobriyal
+# Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 
+======================================================================================================================================
 
-**AI/ML Developer** • **MLOps Enthusiast** • **Full-Stack Builder**
+AI/ML Developer
+---------------
 
-I'm a recent B.Tech graduate in Artificial Intelligence and Machine Learning with hands-on experience building production-grade ML systems, deploying intelligent agents, and crafting full-stack applications. From model development and MLOps automation to GenAI and real-time AI applications — I build smart, scalable, and impactful solutions.
+A passionate and hands-on AI/ML Developer with a completed **B.Tech in Artificial Intelligence and Machine Learning**. I specialize in full-stack ML solutions, real-time AI systems, and intelligent agents. I’ve built systems ranging from fraud detectors and forecasting models to autonomous DevOps agents and LLM-powered chatbots.
 
----
+I thrive at the intersection of engineering and machine learning—shipping ideas fast, automating pipelines, and building models that go beyond notebooks.
 
-## About Me
-
-- Based in **India**  
-- Specialize in **AI/ML, NLP, MLOps, Full-Stack Systems**  
-- Created multiple AI products deployed via Docker, FastAPI, AWS  
-- Passionate about autonomous agents, LLM tools, and real-time detection systems  
-- Solved 100+ problems on LeetCode  
-
----
-
-## Skills
-
-**Languages:**  
-![Python](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg)  
-![C++](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg)  
-![JavaScript](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg)  
-![SQL](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg)  
-![HTML](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg)  
-![CSS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg)  
-
-**Frameworks & Libraries:**  
-![FastAPI](https://fastapi.tiangolo.com/img/logo-margin/logo-teal.png) (custom) • ![TensorFlow](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg) • ![LangChain](https://avatars.githubusercontent.com/u/15125191?s=200&v=4) (custom) • ![scikit-learn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikit-learn-colored.svg)  
-
-**Tools & Cloud:**  
-![Git](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg)  
-![Docker](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg)  
-![AWS](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg)  
-![Google Cloud](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg)  
+* 🌍  I'm based in India  
+* ✉️  You can contact me at  
+* 🧠  Currently exploring LLM agents, LangChain, and real-time ML serving  
+* ⚡  Solved over 100 questions on LeetCode  
 
 ---
 
-## Featured Projects
+### 🔧 Projects
 
-- **VoiceGenie AI** – Real-time voice-controlled AI assistant with RAG and LangChain.  
-- **DevOpsCopilot Agent** – Autonomous Docker/Docker Compose generator and AWS deployer.  
-- **AgroPrice Predictor** – DAP fertilizer price forecasting using XGBoost & LightGBM.  
-- **CryptoStack Trader** – BTC/USDT trading bot with ensemble learning.  
-- **HealthClaim Insight** – Healthcare claims ML dashboard with 97% accuracy.  
-- **InventoryMaster Pro** – Full-stack inventory management system.  
-- **TheraBot GPT** – Finetuned GPT-2 therapist chatbot deployed via Docker.  
-- **CorroDetect Vision** – YOLOv8-based corrosion detection for wind turbines.  
-- **Browser Retrieval Agent** – AI agent with live web browsing and summarization.  
-
----
-
-## Certifications
-
-- TensorFlow Developer Certificate  
-- AWS Certified Cloud Practitioner  
-- Google Cloud Digital Leader  
-- NLP with Classification & Vector Spaces – Deeplearning.ai  
+- **🧠 DevOpsCopilot Agent** – Autonomous Docker/Docker Compose generator and AWS deployer.
+- **🌾 AgroPrice Predictor** – DAP fertilizer price forecasting using XGBoost & LightGBM.
+- **📈 CryptoStack Trader** – BTC/USDT trading bot with ensemble learning and real-time alerts.
+- **🏥 HealthClaim Insight** – Healthcare claims ML dashboard with 97% classification accuracy.
+- **📦 InventoryMaster Pro** – Full-stack inventory and billing system using Streamlit & FastAPI.
+- **🧘 TheraBot GPT** – Finetuned GPT-2 therapist chatbot deployed via Docker.
+- **🛠️ CorroDetect Vision** – YOLOv8-based corrosion detection system for wind turbine inspection.
+- **🌐 Browser Retrieval Agent** – AI agent with live web browsing and contextual summarization.
 
 ---
 
-## Let's Connect
+### 🛠️ Skills
 
-[GitHub](https://github.com/ArnavDobriyal) • [LinkedIn](https://www.linkedin.com/in/arnav-dobriyal-64281123a)
+<p align="left">
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
+<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
+<a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+</p>
+<p align="left">
+<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+</p>
 
 ---
 
-*Let’s build the future of AI together.*  
+### 🌐 Socials
+
+<p align="left"> 
+  <a href="https://www.github.com/ArnavDobriyal" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
+    </picture> 
+  </a> 
+  <a href="https://www.linkedin.com/in/arnav-dobriyal-64281123a" target="_blank" rel="noreferrer"> 
+    <picture> 
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
+    </picture> 
+  </a>
+</p>
