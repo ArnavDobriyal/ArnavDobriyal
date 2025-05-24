@@ -1,7 +1,7 @@
-# Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is 
+# Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnav Dobriyal
 ======================================================================================================================================
 
-AI/ML Developer
+Building Minds with Code | AI Sorcerer
 ---------------
 
 A passionate and hands-on AI/ML Developer with a completed **B.Tech in Artificial Intelligence and Machine Learning**. I specialize in full-stack ML solutions, real-time AI systems, and intelligent agents. I’ve built systems ranging from fraud detectors and forecasting models to autonomous DevOps agents and LLM-powered chatbots.
@@ -30,20 +30,36 @@ I thrive at the intersection of engineering and machine learning—shipping idea
 
 ### 🛠️ Skills
 
+### 🛠️ Skills
+
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
+<!-- Programming -->
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a>
-<a href="https://store.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a>
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a>
-<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
-<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
-<p align="left">
+<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">🧪 scikit-learn</a>
+<a href="https://opencv.org/" target="_blank" rel="noreferrer">📷 OpenCV</a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">🧠 LangChain</a>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">🐼 pandas</a>
+<a href="https://numpy.org/" target="_blank" rel="noreferrer">🔢 NumPy</a>
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">📊 Matplotlib</a>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">🎨 Seaborn</a>
+
+<!-- Dev Tools -->
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer">🐳 Docker</a>
+<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">🚀 FastAPI</a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer">📈 Streamlit</a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">🔧 Git</a>
+<a href="https://github.com/" target="_blank" rel="noreferrer">🐙 GitHub</a>
+<a href="https://www.postman.com/" target="_blank" rel="noreferrer">📬 Postman</a>
+
+<!-- Databases -->
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">🐬 MySQL</a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">🍃 MongoDB</a>
+
+<!-- Cloud -->
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
+<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
 </p>
 
 ---
