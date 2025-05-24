@@ -1,27 +1,84 @@
-Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Arnav Dobriyal
-======================================================================================================================================
+<h1 align="center">Hi, I'm Arnav Dobriyal 👋</h1>
+<h3 align="center">AI/ML Developer | MLOps Enthusiast | Full-Stack Innovator</h3>
 
-AI/ML Developer
----------------
-
-A passionate and driven AI/ML Developer currently pursuing a Bachelor's degree in AI and ML. In my third year of B.Tech, I've immersed myself in the world of artificial intelligence, machine learning, and data science.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [arnavdobriyalofficial@gmail.com](mailto:arnavdobriyalofficial@gmail.com)
-* 🧠  I'm learning Tensorflow
-* ⚡  Over 100 questions on leet code
-
-### Skills
-
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a><a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-<p align="left">
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a>
-</p>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="500"/>
 </p>
 
+---
 
-### Socials
+### 🚀 About Me
 
-<p align="left"> <a href="https://www.github.com/ArnavDobriyal" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/arnav-dobriyal-64281123a" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+I'm an **AI/ML Developer** passionate about transforming ideas into impactful AI solutions. Recently graduated with a **B.Tech in Artificial Intelligence & Machine Learning**, I specialize in building intelligent systems that span across **ML, NLP, MLOps**, and **real-time applications**.
+
+- 💼 Built end-to-end products using AI, ML, DL, NLP, and GenAI  
+- 🌐 Delivered real-time, cloud-deployable systems with Docker, AWS, and FastAPI  
+- 🤖 Creator of an autonomous DevOps AI agent with GitHub/Docker/AWS integration  
+- 📊 Built predictive analytics tools with business impact across AgriTech, Healthcare, and Finance  
+
+---
+
+### 🔧 Core Expertise
+
+- **AI/ML & Deep Learning**: XGBoost, LightGBM, YOLOv5, GPT-2, Transformers  
+- **Natural Language Processing**: LangChain, Qdrant, RAG, Text Classification  
+- **Real-Time AI Systems**: Edge Computing, IoT, Speed Detection, Voice AI  
+- **DevOps & MLOps**: Docker, FastAPI, AWS CLI, GitHub Actions  
+- **Full-Stack Development**: FastAPI, MySQL, JavaScript, HTML/CSS  
+- **Cloud & Tools**: AWS, Google Cloud, Git, Docker, Visual Studio Code, Kaggle  
+
+---
+
+### 🧠 Featured Projects
+
+| Project Name | Description |
+|--------------|-------------|
+| 🚀 **VoiceGenie AI** | Voice-controlled RAG assistant using LangChain, Qdrant & GCP Speech-to-Text |
+| 🧠 **DevOpsCopilot AI Agent** | GitHub-aware agent that reads `context.json`, generates Docker/Compose files, deploys to AWS, and validates health checks |
+| 🌾 **AgroPrice Predictor** | Fertilizer price forecasting using SKforecast, XGBoost, tsfresh – optimized for MAE, MAPE |
+| 📊 **CryptoStack Trader** | BTC/USDT trading bot using ensemble models, achieving over $20K net profit and 7.05 Sharpe Ratio |
+| 🏥 **HealthClaim Insight** | ML dashboard for healthcare claim approvals (97% accuracy), built with Plotly, FastAPI |
+| 📦 **InventoryMaster Pro** | Full-stack inventory management app with automated stock tracking, expiry alerts, user auth |
+| 🛠️ **TheraBot GPT** | Finetuned GPT-2 based therapy chatbot, trained on synthetic sessions, containerized with Docker |
+| 🌬️ **CorroDetect Vision** | YOLOv8-based corrosion detection from drone imagery, with class-specific evaluation |
+| 🌐 **Browser Retrieval Agent** | Web-browsing AI agent that fetches and summarizes online content in real-time |
+
+---
+
+### 🧰 Tech Stack
+
+**Languages:**  
+`Python` • `C/C++` • `JavaScript` • `SQL` • `HTML/CSS`
+
+**Frameworks & Tools:**  
+`TensorFlow` • `PyTorch` • `LangChain` • `FastAPI` • `Docker` • `Git` • `GCP` • `AWS`
+
+**Libraries & APIs:**  
+`Transformers` • `OpenCV` • `Scikit-learn` • `NLTK` • `Plotly` • `tsfresh` • `SKforecast` • `Google Speech-to-Text`  
+
+---
+
+### 📜 Certifications
+
+- ✅ TensorFlow Developer Certificate  
+- ✅ AWS Certified Cloud Practitioner  
+- ✅ Google Cloud Digital Leader  
+- ✅ NLP with Classification & Vector Spaces – Deeplearning.ai  
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.github.com/ArnavDobriyal" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/arnav-dobriyal-64281123a" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /></a>
+</p>
+
+---
+
+### ⚡ Fun Fact
+
+> I’ve built an AI agent that reads your repo, Dockerizes your app, deploys it to AWS, and checks if it’s live – no manual work needed. Basically, your very own DevOps team in a single Python script. 😎
+
+---
+
